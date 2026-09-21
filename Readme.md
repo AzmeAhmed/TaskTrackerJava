@@ -17,3 +17,6 @@ A lightweight console-based task management application built in Java. This proj
 1. Open the project in IntelliJ IDEA.
 2. Run the `Main.java` file.
 3. Follow the on-screen console instructions to manage your tasks.
+4. ```bash
+git clone https://github.com
+```
