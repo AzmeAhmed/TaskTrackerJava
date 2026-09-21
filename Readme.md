@@ -22,4 +22,4 @@ git clone [https://github.com](https://github.com)
 ```
 ```
 ## Author
-Profile created by [AzmeAhmed](https://github.com)
+Profile created by [AzmeAhmed](https://github.com/AzmeAhmed)
