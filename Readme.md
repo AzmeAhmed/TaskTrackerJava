@@ -18,7 +18,8 @@ A lightweight console-based task management application built in Java. This proj
 2. Run the `Main.java` file.
 3. Follow the on-screen console instructions to manage your tasks.
 4. ```bash
-git clone https://github.com
+git clone [https://github.com](https://github.com)
+```
 ```
 ## Author
 Profile created by [AzmeAhmed](https://github.com)
